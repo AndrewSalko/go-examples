@@ -1,2 +1,2 @@
-# go-examples
+# Go examples
 Go language example apps
